@@ -4,7 +4,7 @@
         include 'includes/header.php' 
     ?>
     <!-- Basic HTML -->
-    <h1>Hello HTML - PHP Primer</h1>
+    <h1>Hello HTML - PHP Prime</h1>
     <br/>
     <?php  
         //Printing to HTML using echo
